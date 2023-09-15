@@ -1,3 +1,7 @@
 h2,h4,p,ul{
     font-family: 'PT Serif', serif;
 }
+.griddy{
+    text-indent: 5em;
+}
+/* i don't know why I'm struggling with getting text-indent to work properly.*/
